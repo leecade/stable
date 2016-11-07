@@ -9,8 +9,8 @@
     },
     "main": "stable.js",
     "devDependencies": {
-        "tap": "0.2",
-        "uglify-js": "1"
+        "tap": "~8.0.0",
+        "uglify-js": "^2.7.4"
     },
     "scripts": {
         "test": "tap test.js",
